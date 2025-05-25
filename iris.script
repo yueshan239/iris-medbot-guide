@@ -1,0 +1,5 @@
+     zn "USER"
+     zpm "install fhir-server"
+	load /home/irisowner/dev
+     exit
+     halt
